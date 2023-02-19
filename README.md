@@ -1,5 +1,5 @@
-# Anteproyecto ASIR 22/23
-## **CREACIÓN Y DESARROLLO DE PÁGINA WEB APLICADA A UN CLUB DEPORTIVO**
+## Anteproyecto ASIR 22/23
+# CREACIÓN Y DESARROLLO DE PÁGINA WEB APLICADA A UN CLUB DEPORTIVO
 
 ## IDEA DEL PROYECTO
 ·Ya que el campo de la informática que más me gusta, entretiene, y me gustaría aprender, es la programación, la idea de mi proyecto es crear una página web completa y profesional sobre un club deportivo, en este caso, el club al que pertenezco. Usaré como referencia páginas existentes de diferentes equipos profesionales, debido a mi falta de experiencia en este ámbito, también buscaré información, guías y ayudas sobre el código para crear todo el proyecto por mí mismo desde cero.
